@@ -1,0 +1,101 @@
+
+.container{
+  background: #E4F9F5;
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+  font-family: "Sacramento";
+}
+.por{
+  text-decoration: underline;
+  color: red;
+}
+.bottom-cloud{
+  display :block;
+  position: absolute;
+  left :500px;
+}
+.top-cloud{
+  display :block;
+  position: absolute;
+  top: 50px;
+  right :500px;
+}
+.middle-container{
+  text-align: center;
+  font-family: "Noto Sans JP";
+}
+.skill-row{
+  width: 50%;
+  margin : 0 auto 100px auto;
+  text-align: left;
+}
+.img-skill{
+  float: left;
+  margin-right: 30px;
+  border-radius: 100%;
+}
+.bottom-container{
+  text-align: center;
+  background-color: #66BFBF;
+  color:#11999E;
+  font-family: "Noto Sans JP";
+}
+.p{
+  color :#EAF6F6;
+  font-size: 0.75rem;
+  
+}
+.footer-link{
+  color:#11999E;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.btn{
+  background-color: #66BFBF;
+  font-family: sans-serif;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+  margin-bottom: 20px;
+}
+a:hover{
+  color:#11999E;
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+.pa{
+  width: 50%;
+  margin: 10px auto;
+}
+h3{
+  color: #11999E;
+  padding: 10px;
+  font-weight: bold;
+}
+p{
+  line-height: 2;
+}
+h2{
+  color: #66BFBF;
+  padding: 10px;
+  font-family: "Noto Sans JP";
+}
+h1{
+  padding: 10px;
+  font-size: 90px;
+  color: #66BFBF;
+  margin: 0 auto;
+}
+a{
+  color: #11999E;
+  text-decoration: none;
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
